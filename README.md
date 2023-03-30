@@ -17,15 +17,8 @@ marks in a:
 
 ## **Game preview**
 Start:
-```
- 
-```
-
-
-```
-
-```
-
-```
-
-```
+![start](./Screenshot_20230329_165004.png)
+During game:
+![start](./Screenshot_20230329_165045.png)
+End of the game:
+![start](./Screenshot_20230329_165109.png))
